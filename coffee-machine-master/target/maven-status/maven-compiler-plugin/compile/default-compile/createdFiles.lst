@@ -1,0 +1,9 @@
+com\dunzo\domain\Ingredient.class
+com\dunzo\service\CoffeeMachineServiceImpl.class
+com\dunzo\service\CoffeeMachineService.class
+com\dunzo\domain\CoffeeMachineIngredient.class
+com\dunzo\exceptions\GenericException.class
+com\dunzo\domain\CoffeeMachine.class
+com\dunzo\exceptions\IngredientNotAvailableException.class
+com\dunzo\domain\Beverage.class
+com\dunzo\service\CoffeeMachineThread.class
